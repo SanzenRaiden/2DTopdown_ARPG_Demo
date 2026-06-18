@@ -1,0 +1,35 @@
+{
+    "version": 1,
+    "name": "GameInputAction",
+    "maps": [
+        {
+            "name": "UI",
+            "id": "dff35077-9f98-42e0-86f0-8be30590c1a3",
+            "actions": [
+                {
+                    "name": "ToggleStats",
+                    "type": "Button",
+                    "id": "86f042c9-3044-4a9e-aebd-933486970777",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "9f865b45-fd54-48f9-9430-266083195192",
+                    "path": "<Keyboard>/escape",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "ToggleStats",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
