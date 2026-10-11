@@ -16544,7 +16544,7 @@ Tilemap:
       - {fileID: -1096135577, guid: 4c0bf895d6b017840b8479fc6c19b60f, type: 3}
       - {fileID: 1453078665, guid: 4c0bf895d6b017840b8479fc6c19b60f, type: 3}
       - {fileID: -2104427620, guid: 4c0bf895d6b017840b8479fc6c19b60f, type: 3}
-      m_AnimationSpeed: 5.0000005
+      m_AnimationSpeed: 5
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 22, y: 1, z: 0}
@@ -17566,7 +17566,7 @@ MonoBehaviour:
   - {fileID: 1276809260}
   - {fileID: 1242594214}
   pointsText: {fileID: 15492457}
-  availablePoints: 5
+  availablePoints: 12
 --- !u!114 &1708790386
 MonoBehaviour:
   m_ObjectHideFlags: 0
